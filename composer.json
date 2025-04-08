@@ -1,0 +1,10 @@
+{
+    "require": {
+        "laravel/laravel": "^5.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
